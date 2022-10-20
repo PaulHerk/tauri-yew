@@ -1,6 +1,6 @@
 /.vscode
 
-/src-tauri/target/
+/backend/target/
 
 /frontend/target/
 /frontend/dist/

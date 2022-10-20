@@ -13,6 +13,7 @@ extern "C" {
     pub async fn hello(name: String) -> Result<JsValue, JsValue>;
 }
 
+
 fn main() {
     yew::start_app::<Input>();
 }
